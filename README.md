@@ -8,14 +8,14 @@ Multi-account CLI for [Antigravity](https://antigravity.google/) products:
 
 Manage Google accounts, quotas, and session switching from a single static binary. Own encrypted local store — no other apps required for login or account management.
 
-**Module:** [`github.com/shyim/agm`](https://github.com/shyim/agm)
+**Module:** [`github.com/chatredprivate/agmfull`](https://github.com/chatredprivate/agmfull)
 
 ---
 
 ## Install
 
 ```bash
-go install github.com/shyim/agm@latest
+go install github.com/chatredprivate/agmfull@latest
 ```
 
 Or from a clone of this repository:
